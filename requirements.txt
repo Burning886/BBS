@@ -1,7 +1,7 @@
 alembic==1.4.0
 aniso8601==8.0.0
 blinker==1.4
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 cymysql==0.9.14
